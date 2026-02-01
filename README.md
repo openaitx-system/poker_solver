@@ -1,3 +1,35 @@
+
+<div align="right">
+  <details>
+    <summary >🌐 Language</summary>
+    <div>
+      <div align="center">
+        <a href="https://openaitx.github.io/view.html?user=noambrown&project=poker_solver&lang=en">English</a>
+        | <a href="https://openaitx.github.io/view.html?user=noambrown&project=poker_solver&lang=zh-CN">简体中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=noambrown&project=poker_solver&lang=zh-TW">繁體中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=noambrown&project=poker_solver&lang=ja">日本語</a>
+        | <a href="https://openaitx.github.io/view.html?user=noambrown&project=poker_solver&lang=ko">한국어</a>
+        | <a href="https://openaitx.github.io/view.html?user=noambrown&project=poker_solver&lang=hi">हिन्दी</a>
+        | <a href="https://openaitx.github.io/view.html?user=noambrown&project=poker_solver&lang=th">ไทย</a>
+        | <a href="https://openaitx.github.io/view.html?user=noambrown&project=poker_solver&lang=fr">Français</a>
+        | <a href="https://openaitx.github.io/view.html?user=noambrown&project=poker_solver&lang=de">Deutsch</a>
+        | <a href="https://openaitx.github.io/view.html?user=noambrown&project=poker_solver&lang=es">Español</a>
+        | <a href="https://openaitx.github.io/view.html?user=noambrown&project=poker_solver&lang=it">Italiano</a>
+        | <a href="https://openaitx.github.io/view.html?user=noambrown&project=poker_solver&lang=ru">Русский</a>
+        | <a href="https://openaitx.github.io/view.html?user=noambrown&project=poker_solver&lang=pt">Português</a>
+        | <a href="https://openaitx.github.io/view.html?user=noambrown&project=poker_solver&lang=nl">Nederlands</a>
+        | <a href="https://openaitx.github.io/view.html?user=noambrown&project=poker_solver&lang=pl">Polski</a>
+        | <a href="https://openaitx.github.io/view.html?user=noambrown&project=poker_solver&lang=ar">العربية</a>
+        | <a href="https://openaitx.github.io/view.html?user=noambrown&project=poker_solver&lang=fa">فارسی</a>
+        | <a href="https://openaitx.github.io/view.html?user=noambrown&project=poker_solver&lang=tr">Türkçe</a>
+        | <a href="https://openaitx.github.io/view.html?user=noambrown&project=poker_solver&lang=vi">Tiếng Việt</a>
+        | <a href="https://openaitx.github.io/view.html?user=noambrown&project=poker_solver&lang=id">Bahasa Indonesia</a>
+        | <a href="https://openaitx.github.io/view.html?user=noambrown&project=poker_solver&lang=as">অসমীয়া</
+      </div>
+    </div>
+  </details>
+</div>
+
 # River Poker Solver
 
 This repository builds a no-limit Texas hold'em river subgame solver, starting with Kuhn and Leduc poker for validation. Core algorithms include CFR, CFR+, external-sampling MCCFR, Fictitious Play, and DCFR. Python is the reference implementation; C++ targets performance.
